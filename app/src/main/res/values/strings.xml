@@ -1,0 +1,58 @@
+<resources>
+    These are the xml strings.
+    <string name="app_name">Arrowverse Quiz</string>
+    <string name="welcome">Welcome to the Arrowverse Quiz!</string>
+    <string name="image1">Image header for Quiz.</string>
+    <string name="image2">Image header for Arrow questions.</string>
+    <string name="image3">Image header for Flash questions.</string>
+    <string name="image4">Image header for Legends of Tomorrow questions.</string>
+    <string name="image5">Image header for Supergirl questions.</string>
+    <string name="image6">Image for bonus question toast message.</string>
+    <string name="name">Player Name</string>
+    <string name="hint_name">Type name here.</string>
+    <string name="question1">1.  Oliver Queen was lost on the island for 5 years. True or False.</string>
+    <string name="q1_true">True</string>
+    <string name="q1_false">False</string>
+    <string name="question2">2.  What is Vibe\'s full name?</string>
+    <string name="q2_choice1">Francisco Reynaldo</string>
+    <string name="q2_choice2">Cisco Ramon</string>
+    <string name="q2_choice3">Fred Savage</string>
+    <string name="q2_choice4">Francisco Ramon</string>
+    <string name="question_hint">Answer Here</string>
+    <string name="question3">3.  Who are not Team Arrow members?</string>
+    <string name="choice1">Wild Dog</string>
+    <string name="choice2">Overwatch</string>
+    <string name="choice3">Black Canary</string>
+    <string name="choice4">John Diggle</string>
+    <string name="question4">4.  Who is the captain of the WaveRider?</string>
+    <string name="hint_question">Answer Here</string>
+    <string name="question5">5. Who is Kaitlyn Snow\'s alter ego?</string>
+    <string name="q5_choice1">Mr. Freeze</string>
+    <string name="q5_choice2">Captain Cold</string>
+    <string name="q5_choice3">Killer Frost</string>
+    <string name="q5_choice4">Frosty</string>
+
+    <string name="question6">6.  Which heroes are DEO members?</string>
+    <string name="q6_choice1">Supergirl</string>
+    <string name="q6_choice2">Cat Grant</string>
+    <string name="q6_choice3">Jimmy Olson</string>
+    <string name="q6_choice4">J\'onn J\'onzz</string>
+    <string name="question7">7.  Rip Hunter is a Time Lord? True or False.</string>
+    <string name="q7_true">True</string>
+    <string name="q7_false">False</string>
+    <string name="question8">8. What was the name of the universe that was created when Barry saved his mother? </string>
+    <string name="submit">Submit</string>
+    <string name="bonus">Bonus Question</string>
+    <string name="question_bonus">What other TV show did Joe West star in?</string>
+    <string name="bonus_choice1">NCIS</string>
+    <string name="bonus_choice2">Law and Order: SVU</string>
+    <string name="bonus_choice3">Law and Order</string>
+    <string name="bonus_choice4">L.A. Law</string>
+    <string name="toast">That\'s Right!!!</string>
+
+    These are the java strings.
+    <string name="sara_lance">Sara Lance</string>
+    <string name="flashpoint">The Flashpoint Paradox</string>
+    <string name="got">got</string>
+    <string name="out_of">out of 8 answers correct!</string>
+</resources>
